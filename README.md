@@ -1,4 +1,9 @@
 ## Olá eu sou o Will!
+<div style="display: inline_block"><br>
+  <p>Atualmente estou estudando TypeScript, React e algumas outras tecnológias.</p>
+</div>
+
+ ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
