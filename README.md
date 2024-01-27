@@ -1,6 +1,6 @@
 ## Olá eu sou o Will!
 <div style="display: inline_block"><br>
-  <p>Atualmente estou estudando TypeScript, React, Tailwind e algumas outras tecnológias.</p>
+  <p>Atualmente estou estudando TypeScript, React, Tailwind e algumas outras tecnologias.</p>
 </div>
 
  ##
