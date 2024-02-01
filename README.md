@@ -20,4 +20,4 @@
   <a href="www.linkedin.com/in/william-felipe7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willf7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willf7)](https://github.com/anuraghazra/github-readme-stats)
