@@ -68,7 +68,3 @@ Atualmente tenho direcionado meus estudos para back-end com **Node.js** e **Nest
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=willf7.willf7&left_color=purple&right_color=indigo" width="80" />
-</div>
