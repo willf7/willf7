@@ -16,7 +16,7 @@
 
 ## 📚 Em foco
 
-Atualmente tenho direcionado meus estudos para back-end com **Node.js** e **NestJS**.
+Atualmente tenho direcionado meus estudos para back-end com **Node.js**, **NestJS** e **Laravel**.
 
 ---
 
