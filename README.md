@@ -20,24 +20,6 @@ Atualmente tenho direcionado meus estudos para back-end com **Node.js**, **NestJ
 
 ---
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/willf7/willf7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/willf7/willf7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/willf7/willf7/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-## ⭐ GitHub Stats
-<a href="https://github.com/willf7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willf7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willf7&layout=compact&langs_count=6&theme=radical"/>
-</a>
-
----
-
 ## 🧪 Tecnologias e linguagens
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nestjs,php,laravel,docker,angular,mysql,postgres,mongodb)](https://skillicons.dev)
