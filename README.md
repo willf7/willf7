@@ -73,15 +73,6 @@ Tenho grande interesse em ambientes que valorizem:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🤝 Vamos nos conectar
 
 <p align="left">
