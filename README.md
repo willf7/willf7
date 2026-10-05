@@ -11,7 +11,7 @@ Atuo com desenvolvimento backend e frontend, arquitetura de serviços, mensageri
 ## Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,php,laravel,nodejs,nestjs,mysql,postgres,mongodb,redis,docker,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,mysql,postgres,mongodb,redis,docker,git" />
 </p>
 
 ---
